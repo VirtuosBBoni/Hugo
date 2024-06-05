@@ -1,0 +1,56 @@
+{
+    "folders": [
+        {
+            "name": "TestProj",
+            "path": "D:/UnrealProjects/UEFN/Hugo/TestProj/Plugins/TestProj/Content"
+        },
+        {
+            "name": "TestProj/Assets",
+            "path": "C:/Users/Cloud4Fail/AppData/Local/UnrealEditorFortnite/Saved/VerseProject/TestProj/TestProj-Assets"
+        },
+        {
+            "name": "vproject - DO NOT MODIFY",
+            "path": "C:/Users/Cloud4Fail/AppData/Local/UnrealEditorFortnite/Saved/VerseProject/TestProj/vproject"
+        },
+        {
+            "name": "Verse",
+            "path": "C:/Users/Cloud4Fail/AppData/Local/UnrealEditorFortnite/Saved/VerseProject/TestProj/Verse"
+        },
+        {
+            "name": "UnrealEngine",
+            "path": "C:/Users/Cloud4Fail/AppData/Local/UnrealEditorFortnite/Saved/VerseProject/TestProj/UnrealEngine"
+        },
+        {
+            "name": "Fortnite",
+            "path": "C:/Users/Cloud4Fail/AppData/Local/UnrealEditorFortnite/Saved/VerseProject/TestProj/Fortnite"
+        }
+    ],
+    "settings": {
+        "files.exclude": {
+            "**/*.uasset": true,
+            "**/*.umap": true,
+            "**/*.png": true,
+            "**/*.jpg": true,
+            "**/*.tga": true,
+            "_INT": true,
+            "**/*.vproject": true,
+            "__ExternalActors__": true,
+            "__ExternalObjects__": true
+        },
+        "files.autoSave": "onWindowChange",
+        "workbench.colorTheme": "Verse (Dark)",
+        "editor.bracketPairColorization.enabled": false,
+        "editor.acceptSuggestionOnEnter": "off"
+    },
+    "launch": {
+        "version": "0.2.0",
+        "configurations": [
+            {
+                "name": "Verse Debug",
+                "type": "verse",
+                "request": "attach",
+                "debugServer": 1961
+            }
+        ]
+    }
+}
