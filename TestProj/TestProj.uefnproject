@@ -7,7 +7,7 @@
 	"docsUrl": "",
 	"kind": "Island",
 	"templateCategory": "UserGenerated",
-	"compatibilityVersion": "30.00",
+	"compatibilityVersion": "30.20",
 	"editorPermissions": [],
 	"epicApp": "",
 	"sortPriority": 0,
@@ -31,15 +31,18 @@
 			"allowSquadFillOption": false,
 			"islandQueuePrivacy": "Unrestricted",
 			"version": 1
+		},
+		"experimental":
+		{
 		}
 	},
 	"bindings":
 	{
-		"projectId": "e8ef1226-42f2-21ea-5b5a-26a58e385c05",
+		"projectId": "2d60f7cb-4413-3a8e-e039-beabeb3a02a5",
 		"projectVersePath": "",
 		"modules":
 		{
-			"TestProj": "61255747-4fad-b053-ca51-76be28cdb045"
+			"TestProj": "4178bf1e-4e08-3a9b-f289-ccb2568432ef"
 		}
 	}
 }

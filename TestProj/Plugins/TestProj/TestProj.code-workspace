@@ -2,27 +2,27 @@
     "folders": [
         {
             "name": "TestProj",
-            "path": "D:/UnrealProjects/UEFN/Hugo/TestProj/Plugins/TestProj/Content"
+            "path": "C:/Users/stage/Documents/GitHub/Hugo/TestProj/Plugins/TestProj/Content"
         },
         {
             "name": "TestProj/Assets",
-            "path": "C:/Users/Cloud4Fail/AppData/Local/UnrealEditorFortnite/Saved/VerseProject/TestProj/TestProj-Assets"
+            "path": "C:/Users/stage/AppData/Local/UnrealEditorFortnite/Saved/VerseProject/TestProj/TestProj-Assets"
         },
         {
             "name": "vproject - DO NOT MODIFY",
-            "path": "C:/Users/Cloud4Fail/AppData/Local/UnrealEditorFortnite/Saved/VerseProject/TestProj/vproject"
+            "path": "C:/Users/stage/AppData/Local/UnrealEditorFortnite/Saved/VerseProject/TestProj/vproject"
         },
         {
             "name": "Verse",
-            "path": "C:/Users/Cloud4Fail/AppData/Local/UnrealEditorFortnite/Saved/VerseProject/TestProj/Verse"
+            "path": "C:/Users/stage/AppData/Local/UnrealEditorFortnite/Saved/VerseProject/TestProj/Verse"
         },
         {
             "name": "UnrealEngine",
-            "path": "C:/Users/Cloud4Fail/AppData/Local/UnrealEditorFortnite/Saved/VerseProject/TestProj/UnrealEngine"
+            "path": "C:/Users/stage/AppData/Local/UnrealEditorFortnite/Saved/VerseProject/TestProj/UnrealEngine"
         },
         {
             "name": "Fortnite",
-            "path": "C:/Users/Cloud4Fail/AppData/Local/UnrealEditorFortnite/Saved/VerseProject/TestProj/Fortnite"
+            "path": "C:/Users/stage/AppData/Local/UnrealEditorFortnite/Saved/VerseProject/TestProj/Fortnite"
         }
     ],
     "settings": {
